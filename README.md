@@ -65,7 +65,7 @@ This project demonstrates an end-to-end Financial Analytics solution using SQL, 
 
 ## Project Preview
 
-![image alt](https://github.com/aftabmonye/Financial-Analytics-Dashboard/blob/f6bc3f8c9e10d12a04404c94d63fe386d8d7ef4a/Dashboard_Preview.png)
+![image alt](https://github.com/aftabmonye/Financial-Analytics-Dashboard/blob/34c054c508238827bf58bd85b3878a39cfbdf74f/Dashboard_Preview.png)
 
 ---
 
